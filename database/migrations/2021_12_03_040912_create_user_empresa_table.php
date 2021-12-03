@@ -24,6 +24,7 @@ class CreateUserEmpresaTable extends Migration
         });
     }
 
+    
     /**
      * Reverse the migrations.
      *
